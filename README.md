@@ -25,6 +25,8 @@ Developed by The Lawrenceville School Junior, Georges Casassovici, who joined ma
     ```
 
 3. **Usage**:
+    The official set of scripts is meant for a set of test pairs while the backup scripts are meant for only a single pair to train on.
+
     - Train the model:
       ```bash
       python alignment_train.py
